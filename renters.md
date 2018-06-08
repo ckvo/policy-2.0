@@ -38,7 +38,7 @@ We provide coverage up to a certain limit. Here is a quick overview of the limit
 *   Damage to other people, up to $100,000
 
 
-These amounts indicate the maximum we will reimburse you, in total, per year - even if the losses you suffer are larger.
+These amounts indicate the maximum we will reimburse you, in total, per policy year - even if the losses you suffer are larger.
 
 So take a minute to imagine the stuff belonging to everyone on the policy going up in flames tomorrow (ouch). Remember to include everyone's clothes, furniture, jewelry, cameras, laptops, and phones.
 
